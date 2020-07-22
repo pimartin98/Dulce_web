@@ -1,0 +1,13 @@
+Creation d'une application rails. 
+
+Configuration de rails avec bundler dans le repository : 
+
+ces commandes ont été executé en usivant le tutoriel dans via le  link ci dessous:
+https://bundler.io/guides/rails.html 
+
+
+gem install rails 
+
+rails new DulceSite
+
+
